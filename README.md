@@ -5,6 +5,7 @@
 Šis projektas paleidžiamas naudojant šias komandas:
 
 ```
+cd src
 javac *.java
 java Main
 ```
